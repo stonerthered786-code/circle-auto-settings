@@ -1,0 +1,1 @@
+# circle-auto-settings
